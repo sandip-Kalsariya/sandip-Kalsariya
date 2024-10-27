@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://private-user-images.githubusercontent.com/40656217/374551552-13babb10-b66f-49cb-9f73-bcd05ece052b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAwMDQzMTUsIm5iZiI6MTczMDAwNDAxNSwicGF0aCI6Ii80MDY1NjIxNy8zNzQ1NTE1NTItMTNiYWJiMTAtYjY2Zi00OWNiLTlmNzMtYmNkMDVlY2UwNTJiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDI3VDA0NDAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA0ODM4OTRiYzI2NzhiMWMxMjE2YzJlMjAzNzFjZDM2ZjdjYWZjNGViZDNkN2IzYmU5NzYyYTUzNTc3MjdmYTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FwefC16SWtd08R68322wDaBJ-34E1ofy-opj8p0ihoo"  />
-</div>
-
 ###
 
 <h1 align="left">👋 Welcome to my GitHub profile. I am Sandip Kalsariya, and I invite you to collaborate on innovative coding projects.</h1>
